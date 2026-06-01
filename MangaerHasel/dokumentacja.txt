@@ -1,0 +1,31 @@
+DOKUMENTACJA UŻYTKOWNIKA
+Projekt: Manager Haseł
+Język: Python (Tkinter)
+
+1. OPIS PROGRAMU
+Aplikacja służy do zapisywania haseł do różnych stron i usług. Umożliwia dodawanie loginu, hasła oraz nazwy strony.
+
+2. DZIAŁANIE PROGRAMU
+Po zapisie loginu użytkownika oraz jego hasła może on je zapisać i przetrzymywać w porgramie
+
+3. FUNKCJE
+- dodawanie nowych haseł
+- wyświetlanie zapisanych danych
+- generowanie losowego hasła
+- zapisywanie danych do pliku JSON
+
+4. JAK URUCHOMIĆ
+1. Otwórz folder z projektem
+2. Uruchom plik main.py
+3. Program otworzy okno aplikacji
+
+Komenda:
+python main.py
+
+5. ZAPIS DANYCH
+Dane są zapisywane w pliku:
+passwords.json
+
+6. WYMAGANIA
+- Python 3.x
+- brak dodatkowych bibliotek
